@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/ace/labo/c'
+let g:netrw_dirhist_4='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/ihor.husak-myfind-2023/src'
+let g:netrw_dirhist_3='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/ihor.husak-myfind-2023'
+let g:netrw_dirhist_2='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find/src/headers'
+let g:netrw_dirhist_1='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find/src'
+let g:netrw_dirhist_0='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find'
+let g:netrw_dirhist_9='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find/src/data_structures'
+let g:netrw_dirhist_8='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find/src'
+let g:netrw_dirhist_7='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find'
+let g:netrw_dirhist_6='/Users/ace/Documents/EPITA/cycle-ingenieur/First Year/Semester 5/Projets/new_my_find/src'
