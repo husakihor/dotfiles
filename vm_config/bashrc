@@ -1,0 +1,12 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+source $HOME/.bash_config/ps1.bash
+source $HOME/.bash_config/aliases.bash
+source $HOME/.bash_config/layout.bash
+source $HOME/.bash_config/less_colors.bash
+source $HOME/.bash_config/git_aliases.bash
